@@ -6,23 +6,29 @@ header {
     padding: 10px 20px;
     
 }
-header img{
+#img{
     width: 60px;
     height: 60px;
-
+    box-shadow: 2px 2px 1px black;
+}
+#img:hover{
+    transform: scale(1.055) ;
+    color:black;
+    transition: color 0.3s ease;
 }
 nav{
     text-align: right;
+    
 }
 nav a {
     display: inline-flex;
     align-items: center;
     color: white;
-    transition: color 0.3s ease;
-    font-size: 20px;
-    font-family: "Fira Code", Arial, Helvetica, sans-serif;
-    font-weight: 500;
+    font-size: 18px;
+    font-family: "Fira Code", sans-serif;
+    font-weight: normal;
     text-decoration: none;
+    text-shadow: 2px 2px 1px black;
     margin-right: 30px;
 }
 a::before{
@@ -35,6 +41,7 @@ a::before{
 }
 nav a:hover{
     color:black;
+    transition: color 0.3s ease;
 }
 #button{
     background-color:crimson;
@@ -44,4 +51,7 @@ nav a:hover{
     padding-right: 20px;
     margin-right: 0;
     box-shadow: 5px 5px 0px black;
+}
+#button:hover{
+    transform: scale(1.055);
 }
