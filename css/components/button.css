@@ -1,4 +1,4 @@
-#button{
+.button{
     background-color:crimson;
     height: 60px;
     line-height: 60px;
@@ -7,6 +7,6 @@
     margin-right: 0;
     box-shadow: 5px 5px 0px black;
 }
-#button:hover{
+.button:hover{
     transform: scale(1.055);
 }
