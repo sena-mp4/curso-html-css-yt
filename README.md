@@ -1,1 +1,1 @@
-Aprendendo a fazer front-end com htlml e css, recentemente aprendi a usar o git e o vss portanto vou colocar o codigo aqui e atualiziar conforme o estudo for desenrolando.
+Learning to do front-end with html and css, I recently learned to use git and vss so I will put the code here and update as the study unfolds.

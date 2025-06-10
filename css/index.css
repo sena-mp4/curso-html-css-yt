@@ -43,15 +43,3 @@ nav a:hover{
     color:black;
     transition: color 0.3s ease;
 }
-#button{
-    background-color:crimson;
-    height: 60px;
-    line-height: 60px;
-    padding-left: 10px;
-    padding-right: 20px;
-    margin-right: 0;
-    box-shadow: 5px 5px 0px black;
-}
-#button:hover{
-    transform: scale(1.055);
-}
