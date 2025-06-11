@@ -1,0 +1,26 @@
+.action {
+    display: inline-flex;
+    align-items: center;
+    color: white;
+    font-size: 18px;
+    font-weight: normal;
+    text-decoration: none;
+    text-shadow: 2px 2px 1px black;
+    margin-right: 30px;
+}
+.action::before{
+    content: "";
+    background-color: crimson;
+    height: 10px;
+    width: 10px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+.action:hover{
+    animation: pulse 0.8s infinite;
+}
