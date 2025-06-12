@@ -1,8 +1,8 @@
 .box{
     display: inline-block;
-    background-color: darkslateblue;
+    background-color: #5c5f82;
     text-align: center;
-    box-shadow: 10px 10px 1px black;
+    box-shadow: 10px 10px 0px black;
     padding: 42px 45px;
 }
 
