@@ -1,6 +1,7 @@
-.skills{
+.section{
     padding: 50px 0;
     background-color: #efb9cd;
     height: 580px;
     border-bottom: 10px solid #5c5f82;
+    image-rendering: pixelated;
 }
