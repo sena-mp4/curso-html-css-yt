@@ -9,3 +9,8 @@
     box-shadow: none;
     margin-right: 10px;
 } 
+.skill-tec .right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
