@@ -1,5 +1,5 @@
 progress{
-    width: 200px;
+    max-width: 350px;
     height: 20px;
     appearance: none;
     -webkit-appearance: none;

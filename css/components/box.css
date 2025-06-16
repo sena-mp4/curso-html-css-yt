@@ -6,6 +6,6 @@
     padding: 42px 45px;
 }
 
-.box h1{
-    margin-bottom: 28px;
+.box .main-title{
+    margin-bottom: 10px;
 }
