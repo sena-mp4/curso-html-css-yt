@@ -4,6 +4,7 @@
     box-shadow: 2px 2px 0px black;
 }
 .icon:hover{
-    transform: scale(1.055) ;
+    transition: transform 0.3s ease;
+    transform: scale(1.1);
 }
 

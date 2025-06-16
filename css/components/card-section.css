@@ -1,0 +1,7 @@
+.card-section{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #5c5f82;
+    max-height: 560px;
+}

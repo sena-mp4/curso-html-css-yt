@@ -1,0 +1,27 @@
+.card-project{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #efb9cd;
+    box-shadow: 10px 10px black;
+    width: 300px;   
+    height: 300px;
+    overflow: hidden;
+}
+.card-project.gray{
+    background-color: #a2bdc6;
+}
+.card-project.orange{
+    background-color: #f09e98;
+}
+
+.card-project .card-icon{
+    object-fit: contain;
+    height: 90%;
+    width: 90%;
+}
+
+.card-project:hover {
+  transition: transform 0.3s ease;
+  transform: scale(1.1);
+}
