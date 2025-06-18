@@ -1,4 +1,4 @@
-.action {
+.main-action {
     display: inline-flex;
     align-items: center;
     color: white;
@@ -8,7 +8,7 @@
     text-shadow: 2px 2px 0px black;
     margin-right: 30px;
 }
-.action::before{
+.main-action::before{
     content: "";
     background-color: #efb9cd;
     height: 10px;
@@ -17,7 +17,7 @@
     vertical-align: middle;
 }
 
-.action:hover{
+.main-action:hover{
   transition: transform 0.3s ease;
   transform: scale(1.1);
 }
