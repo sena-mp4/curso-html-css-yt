@@ -1,4 +1,4 @@
-.banner {
+.main-banner {
     display: flex;
     flex-direction: column;
     justify-content: space-between; 
@@ -11,13 +11,13 @@
     border-bottom: 10px solid black;
 }
 
-.banner .box {
+.main-banner .box {
     width: 450px;
     margin-top: 80px; 
     position: relative;
 }
 
-.banner .navigation {
+.main-banner .navigation {
     display: flex; 
     justify-content: space-around; 
     margin-top: 40px;
