@@ -1,7 +1,6 @@
 .card-section{
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+    padding: 50px;
     background-color: #5c5f82;
-    max-height: 560px;
+    border-bottom: 10px solid black;
+    max-height: cover;
 }
