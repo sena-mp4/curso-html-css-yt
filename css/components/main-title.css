@@ -8,7 +8,7 @@
 .main-title.skills{
     color: #5c5f82;
     font-family: "Press Start 2P", sans-serif;
-    font-size: 30px;
+    font-size: 26px;
     text-shadow: 4px 4px 0px black;
     text-align: center;
 }
@@ -17,7 +17,14 @@
 .main-title.projects{
     color: #efb9cd;
     font-family: "Press Start 2P", sans-serif;
-    font-size: 30px;
+    font-size: 26px;
+    text-shadow: 4px 4px 0px black;
+    text-align: center;
+}
+.main-title.about{
+    color: #5c5f82;
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 26px;
     text-shadow: 4px 4px 0px black;
     text-align: center;
 }

@@ -10,8 +10,8 @@
 .skill-tec .icon{
     box-shadow: none;
     margin-right: 10px;
-    width: 90px;
-    height: 90px;
+    width: 70px;
+    height: 70px;
     
 } 
 .skill-tec .right{
@@ -21,4 +21,5 @@
 }
 .skill-tec .title{
     padding-bottom: 10px;
+    font-size: 22px;
 }
