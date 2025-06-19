@@ -1,0 +1,39 @@
+.button-arrow.left{
+    width: 50px;
+    height: 50px;
+    background-color: #efb9cd;
+    box-shadow: 5px 5px 0px black;
+}
+
+.button-arrow.right{
+    width: 50px;
+    height: 50px;
+    background-color: #efb9cd;
+    box-shadow: 5px 5px 0px black;
+}
+
+.button-arrow .content{
+    display: none;
+}
+
+.button-arrow::before{
+    content: '';
+    display: block;
+    box-sizing: border-box;
+    width: 15px;
+    height: 16px;
+    border: 20px solid transparent;
+    border-left: 28px solid #5c5f82;
+    transform: translate(10px);
+}
+
+.button-arrow.left::before{
+    content: '';
+    display: block;
+    box-sizing: border-box;
+    width: 15px;
+    height: 16px;
+    border: 20px solid transparent;
+    border-left: 28px solid #5c5f82;
+    transform: rotate(180deg) translate(15px)
+}
