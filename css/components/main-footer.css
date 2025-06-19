@@ -1,0 +1,23 @@
+.main-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding: 28px 0;
+    gap: 20px;
+}
+
+.footer-icon {
+    width: 50px;
+    height: 50px;
+    margin: 0 10px;
+    transition: transform 0.3s ease;
+}
+
+.footer-icon.github{
+    filter: invert(1);
+}
+
+.footer-icon:hover {
+    transform: scale(1.1);
+}
