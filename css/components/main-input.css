@@ -1,8 +1,12 @@
 .main-input{
     box-sizing: border-box;
     border: 5px solid black;
-    height: 50px;
     width: 100%;
+    min-height: 50px;
     font-size: 30px;
     padding: 0 5px;
+}
+
+.main-input .textearea{
+    height: 320px;
 }
