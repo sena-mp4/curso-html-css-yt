@@ -5,8 +5,9 @@
     min-height: 50px;
     font-size: 30px;
     padding: 0 5px;
+    resize: none;
 }
 
-.main-input.textearea{
+.main-input.textarea{
     height: 360px;
 }

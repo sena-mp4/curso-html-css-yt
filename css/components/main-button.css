@@ -9,6 +9,7 @@
     padding-right: 20px;
     margin-right: 0;
     box-shadow: 5px 5px 0px black;
+    text-shadow: 2px 2px black;
     text-decoration: none;
 }
 
@@ -19,4 +20,5 @@
 
 .main-button.full{
   width: 100%;
+  font-size: 40px;
 }
