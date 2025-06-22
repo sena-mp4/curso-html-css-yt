@@ -29,3 +29,10 @@
     text-shadow: 4px 4px 0px black;
     text-align: center;
 }
+
+.main-title.contacts{
+    color: #f09e98;
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 26px;
+    text-shadow: 4px 4px 0px black;
+}

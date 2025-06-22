@@ -8,3 +8,8 @@
 .main-form .main-input:last-of-type{
     margin-bottom: 40px;
 }
+
+.main-form .main-title{
+    text-align: center;
+    margin: 20px 0;
+}
