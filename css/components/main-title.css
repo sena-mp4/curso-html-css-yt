@@ -5,34 +5,13 @@
     text-shadow: 4px 4px 0px black;
 }
 
-.main-title.skills{
-    color: #f09e98;
+.main-title.skills,
+.main-title.projects,
+.main-title.about,
+.main-title.contacts {
     font-family: "Press Start 2P", sans-serif;
     font-size: 26px;
     text-shadow: 4px 4px 0px black;
     text-align: center;
-}
-
-
-.main-title.projects{
     color: #f09e98;
-    font-family: "Press Start 2P", sans-serif;
-    font-size: 26px;
-    text-shadow: 4px 4px 0px black;
-    text-align: center;
-}
-
-.main-title.about{
-    color: #f09e98;
-    font-family: "Press Start 2P", sans-serif;
-    font-size: 26px;
-    text-shadow: 4px 4px 0px black;
-    text-align: center;
-}
-
-.main-title.contacts{
-    color: #f09e98;
-    font-family: "Press Start 2P", sans-serif;
-    font-size: 26px;
-    text-shadow: 4px 4px 0px black;
 }
